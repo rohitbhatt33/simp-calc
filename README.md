@@ -1,5 +1,9 @@
-# simp-calc
+# simp-calc  
+
 A simple purely html-css based calculator 
-easy to code and reliable
-here's the url of the calculator
-please don't mind the font size:).
+
+Easy to code and reliable
+
+Here's the url of the calculator:-https://relaxed-calculator.netlify.app/
+
+Please don't mind the font size:).
